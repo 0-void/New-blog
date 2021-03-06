@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>awesomemuthu28@gmail.com (Muthukumar)</managingEditor>
       <webMaster>awesomemuthu28@gmail.com (Muthukumar)</webMaster>
-      <lastBuildDate>Fri, 26 Feb 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 06 Mar 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="blog.nullish.in/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>blog.nullish.in/blog/cronjobs</guid>
+    <title>cron-jobs</title>
+    <link>blog.nullish.in/blog/cronjobs</link>
+    <description>How to prevent heroku app from idling after 30 minutes?. And keep the app active.</description>
+    <pubDate>Sat, 06 Mar 2021 00:00:00 GMT</pubDate>
+    <author>awesomemuthu28@gmail.com (Muthukumar)</author>
+    false
+  </item>
+
   <item>
     <guid>blog.nullish.in/blog/naming-keywords</guid>
     <title>Keywords for naming variables, functions and classes</title>

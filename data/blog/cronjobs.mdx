@@ -1,0 +1,50 @@
+---
+title: cron-jobs
+date: '2021-03-06'
+tags: ['heroku', 'cron-jobs']
+draft: false
+summary: How to prevent heroku app from idling after 30 minutes?. And keep the app active.
+images: [./public/static/images/cron-job.png]
+---
+
+### Heroku free dyno hours
+As you may know, heroku provide free instance to hosting various services. If we use the instance in hobby tier, then there are few limitations.
+Like for each account there is a free dyno hours of 550 hours. If an app has a web dyno that is receiving traffic 
+or it has a worker dyno running, then it actively consumes free dyno hours. But if the dyno receives 
+no traffic in a 30-min period, it will sleep. And free web dyno do not consume free dyno hours
+when sleeping.
+
+But we may not what this behaviour. Atleast we want to keep it alive in the day time. But we 
+can't manually hit the API route periodically. But we can schedule something like crop-jobs to 
+do the calling for us.
+
+
+### Cron-jobs
+A cron job is something that is scheduled to execute some task in the specified time in the future.
+
+
+### How
+To prevent our heroku app from sleeping, we are going to setup a cron job to call a API in our server. 
+The server need to have a API route so that we can use it in the cron job. Here I'm nodejs server as an example. We already have an nodejs server that is hosted in Heroku and we want to 
+keep the server from sleeping on the day time. If we keep our app alive from *6AM* to *12AM*, then the total number 
+of hours is 540 which is below the free dyno hour. So we are going to setup the crop job as such.
+
+
+### Creating a cron-job
+
+For this we are going to use https://cron-job.org/en/ this website to create our cron job.
+Create an account in the above mentioned website. Once created and loggedIn, navigate to members page and click on the cronJobs button.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
