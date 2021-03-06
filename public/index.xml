@@ -5,8 +5,8 @@
       <link>blog.nullish.in/blog</link>
       <description>In this blog, I share my experience in tech, programming stuff learned over the years, vim tutorial and personal thoughts and bragging about my favorite framework and technologies</description>
       <language>en-us</language>
-      <managingEditor>undefined (Muthukumar)</managingEditor>
-      <webMaster>undefined (Muthukumar)</webMaster>
+      <managingEditor>awesomemuthu28@gmail.com (Muthukumar)</managingEditor>
+      <webMaster>awesomemuthu28@gmail.com (Muthukumar)</webMaster>
       <lastBuildDate>Fri, 26 Feb 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="blog.nullish.in/index.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,8 +16,8 @@
     <link>blog.nullish.in/blog/naming-keywords</link>
     <description>In this post, I have added most of the keywords that can be used to name variable, functions or classes.</description>
     <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
-    <author>undefined (Muthukumar)</author>
-    <category>programming</category><category>clean code</category>
+    <author>awesomemuthu28@gmail.com (Muthukumar)</author>
+    false
   </item>
 
   <item>
@@ -26,8 +26,8 @@
     <link>blog.nullish.in/blog/vim-journey</link>
     <description>In this article, I explain why and how I started using Vim and my journey with Vim.</description>
     <pubDate>Sun, 06 Dec 2020 00:00:00 GMT</pubDate>
-    <author>undefined (Muthukumar)</author>
-    <category>journal</category><category>vim</category>
+    <author>awesomemuthu28@gmail.com (Muthukumar)</author>
+    false
   </item>
 
   <item>
@@ -36,8 +36,8 @@
     <link>blog.nullish.in/blog/unit-testing</link>
     <description>Short description about mock and unit testing with code examples.</description>
     <pubDate>Mon, 24 Aug 2020 00:00:00 GMT</pubDate>
-    <author>undefined (Muthukumar)</author>
-    <category>unit testing</category><category>programming</category>
+    <author>awesomemuthu28@gmail.com (Muthukumar)</author>
+    false
   </item>
 
   <item>
@@ -46,8 +46,8 @@
     <link>blog.nullish.in/blog/closure</link>
     <description>Brief explaination about closure in Javascript. </description>
     <pubDate>Sat, 11 Jul 2020 00:00:00 GMT</pubDate>
-    <author>undefined (Muthukumar)</author>
-    <category>javascript</category>
+    <author>awesomemuthu28@gmail.com (Muthukumar)</author>
+    false
   </item>
 
     </channel>
