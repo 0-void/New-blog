@@ -33,8 +33,18 @@ export default function About() {
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
             <p>
-              Hi there! My name is Muthukumar and I'm a junior developer at Actyv. Always tries to
-              try out new technologies. Currently learning nestjs and vuejs.
+              Hi there! My name is Muthukumar, and I'm currently working as a junior developer at
+              Actyv.
+            </p>
+            <p>
+              My hobbies are trying out new technologies that recently caught my eye and watching
+              anime. If you are interested in what animes I watched, check out{' '}
+              <a href="https://www7.animeseries.io/shared-list/6023a0759d6121bb3879c34522f9e66c28ee3ce1e452b">
+                my anime list.
+              </a>
+            </p>
+            <p>
+              And I like to brag about technologies I like and new stuff I learned on the Internet.
             </p>
           </div>
         </div>
