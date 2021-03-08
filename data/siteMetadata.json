@@ -5,7 +5,7 @@
   "description": "In this blog, I share my experience in tech, programming stuff learned over the years, vim tutorial and personal thoughts and bragging about my favorite framework and technologies",
   "language": "en-us",
   "siteUrl": "blog.nullish.in",
-  "siteRepo": "https://github.com/0-void/tailwind-nextjs-starter-blog",
+  "siteRepo": "https://github.com/0-void/new-blog",
   "image": "/static/images/profile.jpeg",
   "socialBanner": "/static/images/twitter-card.png",
   "github": "https://github.com/0-void",
