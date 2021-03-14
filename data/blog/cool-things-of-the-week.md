@@ -1,5 +1,5 @@
 ---
-title: Cools things I found in this week
+title: Cool things I found in this week
 date: '2021-03-14'
 tags: ['cool-things']
 draft: false
