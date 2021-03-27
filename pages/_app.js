@@ -15,6 +15,7 @@ export default function App({ Component, pageProps }) {
       <MDXProvider components={MDXComponents}>
         <Head>
           <meta content="width=device-width, initial-scale=1" name="viewport" />
+          <meta name="google-site-verification" content="qtXBUJc1vnmPYfBn_q9row6crfN-9g4IlYzVuSSlmTk" />
         </Head>
         <DefaultSeo {...SEO} />
         <LayoutWrapper>
