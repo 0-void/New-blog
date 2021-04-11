@@ -2,18 +2,28 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Blog</title>
-      <link>blog.nullish.in/blog</link>
+      <link>https://nullish.in/blog</link>
       <description>In this blog, I share my experience in tech, programming stuff learned over the years, vim tutorial and personal thoughts and bragging about my favorite framework and technologies</description>
       <language>en-us</language>
       <managingEditor>awesomemuthu28@gmail.com (Muthukumar)</managingEditor>
       <webMaster>awesomemuthu28@gmail.com (Muthukumar)</webMaster>
-      <lastBuildDate>Sun, 28 Mar 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="blog.nullish.in/index.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 11 Apr 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://nullish.in/index.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>blog.nullish.in/blog/cool-things-of-the-week(2021-03-28)</guid>
+    <guid>https://nullish.in/blog/misconceptions-and-things-to-know-before-buying-a-domain</guid>
+    <title>Misconceptions and things you need to know before buying a domain name</title>
+    <link>https://nullish.in/blog/misconceptions-and-things-to-know-before-buying-a-domain</link>
+    <description>In this post, I address several misconceptions when buying a domain and things you need to know before purchasing a domain name.</description>
+    <pubDate>Sun, 11 Apr 2021 00:00:00 GMT</pubDate>
+    <author>awesomemuthu28@gmail.com (Muthukumar)</author>
+    false
+  </item>
+
+  <item>
+    <guid>https://nullish.in/blog/cool-things-of-the-week(2021-03-28)</guid>
     <title>Cool things I found in week of 28 March 2021</title>
-    <link>blog.nullish.in/blog/cool-things-of-the-week(2021-03-28)</link>
+    <link>https://nullish.in/blog/cool-things-of-the-week(2021-03-28)</link>
     <description>In this post, I listed out the Cool things I found in the week of 28 March 2021</description>
     <pubDate>Sun, 28 Mar 2021 00:00:00 GMT</pubDate>
     <author>awesomemuthu28@gmail.com (Muthukumar)</author>
@@ -21,9 +31,9 @@
   </item>
 
   <item>
-    <guid>blog.nullish.in/blog/cool-things-of-the-week</guid>
-    <title>Cools things I found in this week</title>
-    <link>blog.nullish.in/blog/cool-things-of-the-week</link>
+    <guid>https://nullish.in/blog/cool-things-of-the-week</guid>
+    <title>Cool things I found in this week</title>
+    <link>https://nullish.in/blog/cool-things-of-the-week</link>
     <description>In this post, I listed out the Cool things I found in the week of 2021/03/14</description>
     <pubDate>Sun, 14 Mar 2021 00:00:00 GMT</pubDate>
     <author>awesomemuthu28@gmail.com (Muthukumar)</author>
@@ -31,9 +41,9 @@
   </item>
 
   <item>
-    <guid>blog.nullish.in/blog/cronjobs</guid>
+    <guid>https://nullish.in/blog/cronjobs</guid>
     <title>cron-jobs</title>
-    <link>blog.nullish.in/blog/cronjobs</link>
+    <link>https://nullish.in/blog/cronjobs</link>
     <description>How to prevent the Heroku app from idling after 30 minutes?. And keep the app active.</description>
     <pubDate>Sat, 06 Mar 2021 00:00:00 GMT</pubDate>
     <author>awesomemuthu28@gmail.com (Muthukumar)</author>
@@ -41,9 +51,9 @@
   </item>
 
   <item>
-    <guid>blog.nullish.in/blog/naming-keywords</guid>
+    <guid>https://nullish.in/blog/naming-keywords</guid>
     <title>Keywords for naming variables, functions and classes</title>
-    <link>blog.nullish.in/blog/naming-keywords</link>
+    <link>https://nullish.in/blog/naming-keywords</link>
     <description>In this post, I have added most of the keywords that can be used to name variable, functions or classes.</description>
     <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
     <author>awesomemuthu28@gmail.com (Muthukumar)</author>
@@ -51,9 +61,9 @@
   </item>
 
   <item>
-    <guid>blog.nullish.in/blog/vim-journey</guid>
+    <guid>https://nullish.in/blog/vim-journey</guid>
     <title>My Journey with Vim</title>
-    <link>blog.nullish.in/blog/vim-journey</link>
+    <link>https://nullish.in/blog/vim-journey</link>
     <description>In this article, I explain why and how I started using Vim and my journey with Vim.</description>
     <pubDate>Sun, 06 Dec 2020 00:00:00 GMT</pubDate>
     <author>awesomemuthu28@gmail.com (Muthukumar)</author>
@@ -61,9 +71,9 @@
   </item>
 
   <item>
-    <guid>blog.nullish.in/blog/unit-testing</guid>
+    <guid>https://nullish.in/blog/unit-testing</guid>
     <title>Mock and Unit testing</title>
-    <link>blog.nullish.in/blog/unit-testing</link>
+    <link>https://nullish.in/blog/unit-testing</link>
     <description>Short description about mock and unit testing with code examples.</description>
     <pubDate>Mon, 24 Aug 2020 00:00:00 GMT</pubDate>
     <author>awesomemuthu28@gmail.com (Muthukumar)</author>
@@ -71,9 +81,9 @@
   </item>
 
   <item>
-    <guid>blog.nullish.in/blog/closure</guid>
+    <guid>https://nullish.in/blog/closure</guid>
     <title>What is a closure?</title>
-    <link>blog.nullish.in/blog/closure</link>
+    <link>https://nullish.in/blog/closure</link>
     <description>Brief explaination about closure in Javascript. </description>
     <pubDate>Sat, 11 Jul 2020 00:00:00 GMT</pubDate>
     <author>awesomemuthu28@gmail.com (Muthukumar)</author>
