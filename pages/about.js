@@ -33,9 +33,11 @@ export default function About() {
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
             <p>
-              Hi there! My name is Muthukumar, and I'm currently working as a junior developer at
-              Actyv.
+              Hi there! My name is Muthukumar, author of{' '}
+              <a href="https://devutilities.nullish.in">DevTools and Utilities</a> and I'm currently
+              working as a junior developer at Actyv.
             </p>
+            <p></p>
             <p>
               My hobbies are trying out new technologies that recently caught my eye and watching
               anime. If you are interested in what animes I watched, check out{' '}
