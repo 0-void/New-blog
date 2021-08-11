@@ -5,8 +5,8 @@
       <link>https://nullish.in/blog</link>
       <description>In this blog, I share my experience in tech, programming stuff learned over the years, vim tutorial and personal thoughts and bragging about my favorite framework and technologies</description>
       <language>en-us</language>
-      <managingEditor>awesomemuthu28@gmail.com (Muthukumar)</managingEditor>
-      <webMaster>awesomemuthu28@gmail.com (Muthukumar)</webMaster>
+      <managingEditor>muthukumarperiyasamy.mk@gmail.com (Muthukumar)</managingEditor>
+      <webMaster>muthukumarperiyasamy.mk@gmail.com (Muthukumar)</webMaster>
       <lastBuildDate>Wed, 11 Aug 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://nullish.in/index.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://nullish.in/blog/object-key-pattern</link>
     <description>In this blog post, you'll learn how to avoid multiple if check using object key pattern in javascript and what problem it solves.</description>
     <pubDate>Wed, 11 Aug 2021 00:00:00 GMT</pubDate>
-    <author>awesomemuthu28@gmail.com (Muthukumar)</author>
+    <author>muthukumarperiyasamy.mk@gmail.com (Muthukumar)</author>
     false
   </item>
 
@@ -26,7 +26,7 @@
     <link>https://nullish.in/blog/misconceptions-and-things-to-know-before-buying-a-domain</link>
     <description>In this post, I address several misconceptions when buying a domain and things you need to know before purchasing a domain name.</description>
     <pubDate>Sun, 11 Apr 2021 00:00:00 GMT</pubDate>
-    <author>awesomemuthu28@gmail.com (Muthukumar)</author>
+    <author>muthukumarperiyasamy.mk@gmail.com (Muthukumar)</author>
     false
   </item>
 
@@ -36,7 +36,7 @@
     <link>https://nullish.in/blog/cool-things-of-the-week(2021-03-28)</link>
     <description>In this post, I listed out the Cool things I found in the week of 28 March 2021</description>
     <pubDate>Sun, 28 Mar 2021 00:00:00 GMT</pubDate>
-    <author>awesomemuthu28@gmail.com (Muthukumar)</author>
+    <author>muthukumarperiyasamy.mk@gmail.com (Muthukumar)</author>
     false
   </item>
 
@@ -46,7 +46,7 @@
     <link>https://nullish.in/blog/cool-things-of-the-week</link>
     <description>In this post, I listed out the Cool things I found in the week of 2021/03/14</description>
     <pubDate>Sun, 14 Mar 2021 00:00:00 GMT</pubDate>
-    <author>awesomemuthu28@gmail.com (Muthukumar)</author>
+    <author>muthukumarperiyasamy.mk@gmail.com (Muthukumar)</author>
     false
   </item>
 
@@ -56,7 +56,7 @@
     <link>https://nullish.in/blog/cronjobs</link>
     <description>How to prevent the Heroku app from idling after 30 minutes?. And keep the app active.</description>
     <pubDate>Sat, 06 Mar 2021 00:00:00 GMT</pubDate>
-    <author>awesomemuthu28@gmail.com (Muthukumar)</author>
+    <author>muthukumarperiyasamy.mk@gmail.com (Muthukumar)</author>
     false
   </item>
 
@@ -66,7 +66,7 @@
     <link>https://nullish.in/blog/naming-keywords</link>
     <description>In this post, I have added most of the keywords that can be used to name variable, functions or classes.</description>
     <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
-    <author>awesomemuthu28@gmail.com (Muthukumar)</author>
+    <author>muthukumarperiyasamy.mk@gmail.com (Muthukumar)</author>
     false
   </item>
 
@@ -76,7 +76,7 @@
     <link>https://nullish.in/blog/vim-journey</link>
     <description>In this article, I explain why and how I started using Vim and my journey with Vim.</description>
     <pubDate>Sun, 06 Dec 2020 00:00:00 GMT</pubDate>
-    <author>awesomemuthu28@gmail.com (Muthukumar)</author>
+    <author>muthukumarperiyasamy.mk@gmail.com (Muthukumar)</author>
     false
   </item>
 
@@ -86,7 +86,7 @@
     <link>https://nullish.in/blog/unit-testing</link>
     <description>Short description about mock and unit testing with code examples.</description>
     <pubDate>Mon, 24 Aug 2020 00:00:00 GMT</pubDate>
-    <author>awesomemuthu28@gmail.com (Muthukumar)</author>
+    <author>muthukumarperiyasamy.mk@gmail.com (Muthukumar)</author>
     false
   </item>
 
@@ -96,7 +96,7 @@
     <link>https://nullish.in/blog/closure</link>
     <description>Brief explaination about closure in Javascript. </description>
     <pubDate>Sat, 11 Jul 2020 00:00:00 GMT</pubDate>
-    <author>awesomemuthu28@gmail.com (Muthukumar)</author>
+    <author>muthukumarperiyasamy.mk@gmail.com (Muthukumar)</author>
     false
   </item>
 
