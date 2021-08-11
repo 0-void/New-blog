@@ -5,12 +5,12 @@
   "description": "In this blog, I share my experience in tech, programming stuff learned over the years, vim tutorial and personal thoughts and bragging about my favorite framework and technologies",
   "language": "en-us",
   "siteUrl": "https://nullish.in",
-  "siteRepo": "https://github.com/0-void/new-blog",
+  "siteRepo": "https://github.com/muthhukumar/blog",
   "image": "/static/images/profile.jpeg",
   "socialBanner": "/static/images/twitter-card.png",
-  "github": "https://github.com/0-void",
-  "twitter": "https://twitter.com/_Muthukumar_P",
+  "github": "https://rd.nullish.in/github",
+  "twitter": "https://rd.nullish.in/twitter",
   "linkedin": "https://www.linkedin.com/in/muthu-kumar-2bb034181",
   "locale": "en-US",
-  "email": "awesomemuthu28@gmail.com"
+  "email": "muthukumarperiyasamy.mk@gmail.com"
 }
