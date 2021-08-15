@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>muthukumarperiyasamy.mk@gmail.com (Muthukumar)</managingEditor>
       <webMaster>muthukumarperiyasamy.mk@gmail.com (Muthukumar)</webMaster>
-      <lastBuildDate>Wed, 11 Aug 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 15 Aug 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://nullish.in/index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://nullish.in/blog/avoid-magic-numbers</guid>
+    <title>Why you should avoid magic numbers in your code?</title>
+    <link>https://nullish.in/blog/avoid-magic-numbers</link>
+    <description>In this post, I explained what is magic numbers and why you should avoid them</description>
+    <pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate>
+    <author>muthukumarperiyasamy.mk@gmail.com (Muthukumar)</author>
+    false
+  </item>
+
   <item>
     <guid>https://nullish.in/blog/object-key-pattern</guid>
     <title>What is object key pattern in javascript?</title>
